@@ -1,5 +1,5 @@
 # emoji-test
-Testing emoji rendering
+Testing emoji rendering: see the [What is going on with emojis on GitHub?](https://firsching.ch/github_emojis)
 
 We are only using those four emojis:
   - :x: 
